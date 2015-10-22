@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: pizza
+Implementation-Version: 0.0.2-SNAPSHOT
+Built-By: eop
+Implementation-Vendor-Id: pizza-grp
+Build-Jdk: 1.8.0_45-internal
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
